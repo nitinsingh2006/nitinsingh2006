@@ -167,9 +167,13 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 
 </div>
 
-<!-- Optional: enable via the contribution-snake GitHub Action, then uncomment.
-<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg" />
--->
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-snake-dark.svg" />
+</div>
 
 <br/>
 
