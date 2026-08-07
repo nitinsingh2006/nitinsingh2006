@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <style>
+      @keyframes corePulse {
+        0%, 100% { opacity: 0.8; r: 6; }
+        50% { opacity: 1; r: 7.5; }
+      }
+      @keyframes dataFlow1 {
+        0% { stroke-dashoffset: 40; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes dataFlow2 {
+        0% { stroke-dashoffset: 30; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes particleDrift {
+        0%, 100% { opacity: 0.06; }
+        50% { opacity: 0.15; }
+      }
+      .core-node { animation: corePulse 3s ease-in-out infinite; }
+      .flow-line-1 { stroke-dasharray: 8 12; animation: dataFlow1 2s linear infinite; }
+      .flow-line-2 { stroke-dasharray: 6 10; animation: dataFlow2 2.5s linear infinite; }
+      .particle-drift { animation: particleDrift 4s ease-in-out infinite; }
+    </style>
+
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="50%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0284C7" stroke-width="0.5" opacity="0.06" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Strong Glow for Core -->
+    <filter id="coreGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Ambient Radial Glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.1" />
+      <stop offset="60%" stop-color="#0284C7" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Accent line gradient -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas -->
+  <rect width="1200" height="300" fill="url(#bgGrad)" />
+  <rect width="1200" height="300" fill="url(#grid)" />
+
+  <!-- Ambient glow behind network core -->
+  <circle cx="960" cy="150" r="180" fill="url(#ambientGlow)" />
+
+  <!-- ═══════════════ NEURAL NETWORK GRAPH ═══════════════ -->
+  <g id="network">
+
+    <!-- Drifting ambient particles -->
+    <g class="particle-drift" fill="#0284C7">
+      <circle cx="730" cy="60" r="1" />
+      <circle cx="810" cy="35" r="1.5" />
+      <circle cx="870" cy="270" r="1" />
+      <circle cx="950" cy="30" r="1.5" />
+      <circle cx="1020" cy="275" r="1" />
+      <circle cx="1100" cy="50" r="1.5" />
+      <circle cx="1150" cy="250" r="1" />
+      <circle cx="770" cy="250" r="1.5" />
+    </g>
+
+    <!-- Static connection lines -->
+    <g stroke="#0284C7" stroke-width="1" opacity="0.12">
+      <!-- Layer 1 → 2 -->
+      <line x1="780" y1="80" x2="850" y2="60" />
+      <line x1="780" y1="80" x2="860" y2="130" />
+      <line x1="780" y1="80" x2="840" y2="190" />
+      <line x1="800" y1="200" x2="840" y2="190" />
+      <line x1="800" y1="200" x2="860" y2="130" />
+      <line x1="800" y1="200" x2="850" y2="250" />
+
+      <!-- Layer 2 → 3 -->
+      <line x1="850" y1="60" x2="940" y2="90" />
+      <line x1="850" y1="60" x2="960" y2="150" />
+      <line x1="860" y1="130" x2="940" y2="90" />
+      <line x1="860" y1="130" x2="960" y2="150" />
+      <line x1="860" y1="130" x2="940" y2="220" />
+      <line x1="840" y1="190" x2="960" y2="150" />
+      <line x1="840" y1="190" x2="940" y2="220" />
+      <line x1="850" y1="250" x2="940" y2="220" />
+
+      <!-- Layer 3 → 4 -->
+      <line x1="940" y1="90" x2="1040" y2="70" />
+      <line x1="940" y1="90" x2="1060" y2="150" />
+      <line x1="960" y1="150" x2="1040" y2="70" />
+      <line x1="960" y1="150" x2="1060" y2="150" />
+      <line x1="960" y1="150" x2="1050" y2="230" />
+      <line x1="940" y1="220" x2="1060" y2="150" />
+      <line x1="940" y1="220" x2="1050" y2="230" />
+
+      <!-- Layer 4 → 5 -->
+      <line x1="1040" y1="70" x2="1140" y2="110" />
+      <line x1="1040" y1="70" x2="1150" y2="190" />
+      <line x1="1060" y1="150" x2="1140" y2="110" />
+      <line x1="1060" y1="150" x2="1150" y2="190" />
+      <line x1="1050" y1="230" x2="1150" y2="190" />
+    </g>
+
+    <!-- Animated data-flow lines -->
+    <line class="flow-line-1" x1="860" y1="130" x2="960" y2="150" stroke="#0284C7" stroke-width="1.5" opacity="0.25" />
+    <line class="flow-line-2" x1="960" y1="150" x2="1060" y2="150" stroke="#0284C7" stroke-width="1.5" opacity="0.2" />
+    <line class="flow-line-1" x1="1060" y1="150" x2="1150" y2="190" stroke="#0284C7" stroke-width="1" opacity="0.15" />
+
+    <!-- Network nodes -->
+    <g fill="#0284C7">
+      <!-- Layer 1: Input -->
+      <circle cx="780" cy="80" r="3" opacity="0.35" />
+      <circle cx="800" cy="200" r="3" opacity="0.35" />
+
+      <!-- Layer 2: Hidden 1 -->
+      <circle cx="850" cy="60" r="3.5" opacity="0.45" filter="url(#glow)" />
+      <circle cx="860" cy="130" r="4" opacity="0.55" filter="url(#glow)" />
+      <circle cx="840" cy="190" r="3.5" opacity="0.45" filter="url(#glow)" />
+      <circle cx="850" cy="250" r="3" opacity="0.35" />
+
+      <!-- Layer 3: Hidden 2 -->
+      <circle cx="940" cy="90" r="4" opacity="0.55" filter="url(#glow)" />
+      <!-- Core node -->
+      <circle class="core-node" cx="960" cy="150" r="6" opacity="0.85" filter="url(#coreGlow)" />
+      <circle cx="960" cy="150" r="2.5" fill="#0F172A" opacity="0.9" />
+      <circle cx="940" cy="220" r="4" opacity="0.55" filter="url(#glow)" />
+
+      <!-- Layer 4: Hidden 3 -->
+      <circle cx="1040" cy="70" r="3.5" opacity="0.45" filter="url(#glow)" />
+      <circle cx="1060" cy="150" r="4.5" opacity="0.65" filter="url(#glow)" />
+      <circle cx="1050" cy="230" r="3.5" opacity="0.45" filter="url(#glow)" />
+
+      <!-- Layer 5: Output -->
+      <circle cx="1140" cy="110" r="3" opacity="0.4" filter="url(#glow)" />
+      <circle cx="1150" cy="190" r="3" opacity="0.4" filter="url(#glow)" />
+    </g>
+  </g>
+
+  <!-- ═══════════════ TYPOGRAPHY ═══════════════ -->
+  <g id="typography">
+    <!-- Name -->
+    <text x="80" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="50" font-weight="700" fill="#0F172A" letter-spacing="3">NITIN SINGH</text>
+
+    <!-- Title -->
+    <text x="80" y="165" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#0369A1" letter-spacing="5">AI SYSTEMS ENGINEER</text>
+
+    <!-- Accent line -->
+    <line x1="80" y1="182" x2="260" y2="182" stroke="url(#accentLine)" stroke-width="2" stroke-linecap="round" />
+
+    <!-- Tagline -->
+    <text x="80" y="215" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="400" fill="#475569" letter-spacing="0.8">Building local-first AI infrastructure · Rust · TypeScript · Python</text>
+
+    <!-- Location -->
+    <text x="80" y="245" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11" font-weight="400" fill="#64748B" letter-spacing="0.5">Indore, India · Open to remote AI engineering roles</text>
+  </g>
+</svg>
