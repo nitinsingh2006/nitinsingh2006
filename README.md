@@ -75,7 +75,7 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 <tr>
 <td width="50%" valign="top">
 ### [Daily DSA](https://github.com/nitinsingh2006/daily-dsa) · Automated Practice Pipeline
-Automated GitHub Actions pipeline that selects fresh DSA problems, uses Groq to generate C++17 solutions, compiles/tests them, and commits verified work. It includes offline fallback data, resume state, and scheduled canary/catch-up checks.
+Autonomous GitHub Actions pipeline for reliable DSA delivery: selects genuinely fresh problems, uses Groq to generate C++17 solutions, compiles/tests each one, resumes safely, and publishes only verified commits.
 
 `Python` `C++17` `Groq` `GitHub Actions`
 
