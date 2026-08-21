@@ -74,14 +74,14 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 <table>
 <tr>
 <td width="50%" valign="top">
-### [Daily DSA Automation](https://github.com/nitinsingh2006/daily-dsa)
+### [Daily DSA](https://github.com/nitinsingh2006/daily-dsa) · Automated Practice Pipeline
 Automated GitHub Actions pipeline that selects fresh DSA problems, uses Groq to generate C++17 solutions, compiles/tests them, and commits verified work. It includes offline fallback data, resume state, and scheduled canary/catch-up checks.
 
 `Python` `C++17` `Groq` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
-### [ROAN Organization Platform](https://github.com/nitinsingh2006/animesh-client-website)
+### [ROAN](https://github.com/nitinsingh2006/animesh-client-website) · Multi-Portal Platform
 Multi-portal platform work for a real client, spanning Student, Faculty, Institute, University, and Super Admin roles with a role-based product architecture.
 
 `Next.js` `Prisma` `PostgreSQL` `TypeScript`
