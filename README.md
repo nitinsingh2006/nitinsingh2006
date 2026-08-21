@@ -81,7 +81,7 @@ Automated GitHub Actions pipeline that selects fresh DSA problems, uses Groq to 
 
 </td>
 <td width="50%" valign="top">
-### [ROAN Organization Platform](https://github.com/nitinsingh2006/ROAN-Organization-Platform)
+### [ROAN Organization Platform](https://github.com/nitinsingh2006/animesh-client-website)
 Multi-portal platform work for a real client, spanning Student, Faculty, Institute, University, and Super Admin roles with a role-based product architecture.
 
 `Next.js` `Prisma` `PostgreSQL` `TypeScript`
@@ -163,7 +163,7 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 - **[nitin-ai](https://www.npmjs.com/package/nitin-ai)** — npm package: an autonomous AI developer agent for terminal workflows, BYO API key
 - **[nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code)** — Python/FastAPI proxy tooling around Claude Code and Codex, with provider routing and an admin UI
 - **[daily-dsa](https://github.com/nitinsingh2006/daily-dsa)** — automated Groq + C++17 + GitHub Actions DSA practice pipeline with persistent uniqueness checks
-- **[ROAN Organization Platform](https://github.com/nitinsingh2006/ROAN-Organization-Platform)** — role-based multi-portal platform work for a real client
+- **[ROAN Organization Platform](https://github.com/nitinsingh2006/animesh-client-website)** — role-based multi-portal platform work for a real client
 - **[dsa-daily-practice](https://github.com/nitinsingh2006/dsa-daily-practice)** · **[100-days-of-code](https://github.com/nitinsingh2006/100-days-of-code)** · **[javascript-practice](https://github.com/nitinsingh2006/javascript-practice)** — daily JavaScript/DSA practice repositories
 
 <br/>
