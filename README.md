@@ -74,22 +74,6 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 <table>
 <tr>
 <td width="50%" valign="top">
-### [Daily DSA](https://github.com/nitinsingh2006/daily-dsa) · Automated Practice Pipeline
-Autonomous GitHub Actions pipeline for reliable DSA delivery: selects genuinely fresh problems, uses Groq to generate C++17 solutions, compiles/tests each one, resumes safely, and publishes only verified commits.
-
-`Python` `C++17` `Groq` `GitHub Actions`
-
-</td>
-<td width="50%" valign="top">
-### [ROAN](https://github.com/nitinsingh2006/animesh-client-website) · Multi-Portal Platform
-Multi-portal platform work for a real client, spanning Student, Faculty, Institute, University, and Super Admin roles with a role-based product architecture.
-
-`Next.js` `Prisma` `PostgreSQL` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### [Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)
 Open-source local-first AI workstation for local and cloud models. Rust/Tauri trusted core, OS-keychain secrets, SQLite persistence, provider registry, and a sandboxed agent runtime behind a React desktop UI.
@@ -162,8 +146,6 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 - **[Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)** — Apache-2.0 local-first AI workstation built around provider independence and on-device control
 - **[nitin-ai](https://www.npmjs.com/package/nitin-ai)** — npm package: an autonomous AI developer agent for terminal workflows, BYO API key
 - **[nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code)** — Python/FastAPI proxy tooling around Claude Code and Codex, with provider routing and an admin UI
-- **[daily-dsa](https://github.com/nitinsingh2006/daily-dsa)** — automated Groq + C++17 + GitHub Actions DSA practice pipeline with persistent uniqueness checks
-- **[ROAN Organization Platform](https://github.com/nitinsingh2006/animesh-client-website)** — role-based multi-portal platform work for a real client
 - **[dsa-daily-practice](https://github.com/nitinsingh2006/dsa-daily-practice)** · **[100-days-of-code](https://github.com/nitinsingh2006/100-days-of-code)** · **[javascript-practice](https://github.com/nitinsingh2006/javascript-practice)** — daily JavaScript/DSA practice repositories
 
 <br/>
@@ -172,8 +154,8 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinsingh2006&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitinsingh2006&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
