@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=220&section=header&text=Nitin%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2B%20Full-Stack%20Engineer%20%C2%B7%20Indore,%20India&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Nitin%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Engineer%20%C2%B7%20Indore,%20India&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+local-first+AI+tools;Full-stack+SaaS+%2B+developer+infrastructure;Rust+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+AI+agents;Shipping+solo%2C+end+to+end)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+local-first+AI+tools;Full-stack+SaaS+%2B+developer+infrastructure;Rust+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+AI+agents)](https://git.io/typing-svg)
 
 <p>
 <a href="https://nitin-portfolio-orpin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -14,21 +12,6 @@
 <a href="https://linkedin.com/in/nitinsingh2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.npmjs.com/~nitinsingh2006"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=nitinsingh2006&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/nitinsingh2006?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS" />
-</p>
-
-<sub>
-<a href="#about">About</a> ·
-<a href="#currently-building">Currently Building</a> ·
-<a href="#stack">Stack</a> ·
-<a href="#featured-projects">Projects</a> ·
-<a href="#open-source">Open Source</a> ·
-<a href="#github-activity">GitHub Activity</a> ·
-<a href="#connect">Connect</a>
-</sub>
 
 </div>
 
@@ -43,9 +26,9 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 ## Currently Building
 
 ```
-  Local-first AI apps  — Rust, Tauri, React, SQLite, Ollama, provider adapters
-  Full-stack SaaS      — Next.js, TypeScript, Prisma, PostgreSQL, Clerk, Razorpay
-  AI product features  — Ollama, Gemini, Groq, OpenAI/Anthropic-style provider patterns
+🦀  Local-first AI apps  — Rust, Tauri, React, SQLite, Ollama, provider adapters
+🌐  Full-stack SaaS      — Next.js, TypeScript, Prisma, PostgreSQL, Clerk, Razorpay
+🤖  AI product features  — Ollama, Gemini, Groq, OpenAI/Anthropic-style provider patterns
 ⚙️  Automation pipelines — Python, Apify, GitHub Actions, scheduled workflows
 ```
 
@@ -65,10 +48,6 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
 
-**Testing & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
 </td>
 <td valign="top" width="50%">
 
@@ -82,7 +61,7 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 
 **DevOps**
 <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 
 </td>
 </tr>
@@ -97,9 +76,6 @@ B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack
 <td width="50%" valign="top">
 
 ### [Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)
-![Stars](https://img.shields.io/github/stars/nitinsingh2006/Nitin-AI?style=flat-square&color=38BDF8)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/Nitin-AI?style=flat-square)
-
 Open-source local-first AI workstation for local and cloud models. Rust/Tauri trusted core, OS-keychain secrets, SQLite persistence, provider registry, and a sandboxed agent runtime behind a React desktop UI.
 
 `Rust` `Tauri` `React` `SQLite` `Ollama`
@@ -108,8 +84,6 @@ Open-source local-first AI workstation for local and cloud models. Rust/Tauri tr
 <td width="50%" valign="top">
 
 ### [CodeQuest AI](https://codequest-ai-one.vercel.app)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/codequest-ai?style=flat-square)
-
 Gamified coding platform with quests, a leaderboard, in-browser code execution via Pyodide, and a local Ollama mentor — no server-side execution risk, no API cost.
 
 `Next.js` `Prisma` `PostgreSQL` `Ollama` `Pyodide` `Docker`
@@ -120,9 +94,6 @@ Gamified coding platform with quests, a leaderboard, in-browser code execution v
 <td width="50%" valign="top">
 
 ### [Invo](https://github.com/nitinsingh2006/invo)
-![Stars](https://img.shields.io/github/stars/nitinsingh2006/invo?style=flat-square&color=38BDF8)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/invo?style=flat-square)
-
 AI-assisted invoicing platform for Indian freelancers and small businesses — GST-compliant invoices, Clerk auth, Razorpay payment links, PDF generation, and Gemini-powered reminders.
 
 `Next.js` `Prisma` `Clerk` `Razorpay` `Gemini`
@@ -131,9 +102,6 @@ AI-assisted invoicing platform for Indian freelancers and small businesses — G
 <td width="50%" valign="top">
 
 ### [PortfolioSathi](https://github.com/nitinsingh2006/portfoliosathi)
-![Stars](https://img.shields.io/github/stars/nitinsingh2006/portfoliosathi?style=flat-square&color=38BDF8)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/portfoliosathi?style=flat-square)
-
 Portfolio generator that turns a GitHub username and a LinkedIn PDF export into an animated, data-driven portfolio site, parsing both sources server-side.
 
 `Next.js` `GitHub REST API` `pdf-parse` `Three.js`
@@ -144,9 +112,6 @@ Portfolio generator that turns a GitHub username and a LinkedIn PDF export into 
 <td width="50%" valign="top">
 
 ### [ResumeForge](https://github.com/nitinsingh2006/resume-forge)
-![Stars](https://img.shields.io/github/stars/nitinsingh2006/resume-forge?style=flat-square&color=38BDF8)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/resume-forge?style=flat-square)
-
 ATS-friendly resume builder with live preview, multiple templates, PDF/DOCX/JSON export, and a tested, Dockerized, auth-ready architecture.
 
 `Next.js` `Prisma` `Docker` `Vitest` `Playwright`
@@ -155,9 +120,6 @@ ATS-friendly resume builder with live preview, multiple templates, PDF/DOCX/JSON
 <td width="50%" valign="top">
 
 ### [Lead Gen Automation](https://github.com/nitinsingh2006/lead-gen-automation)
-![Stars](https://img.shields.io/github/stars/nitinsingh2006/lead-gen-automation?style=flat-square&color=38BDF8)
-![Last Commit](https://img.shields.io/github/last-commit/nitinsingh2006/lead-gen-automation?style=flat-square)
-
 End-to-end Python pipeline that finds local businesses, generates demo websites with Gemini, deploys them to GitHub Pages, and runs outreach over email.
 
 `Python` `Apify` `Gemini` `GitHub Pages` `SMTP`
@@ -174,7 +136,6 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 |---|---|---|
 | [GitHub Roaster](https://github.com/nitinsingh2006/github-roaster) | Analyzes GitHub profile data and generates multilingual AI roasts via a Groq-compatible chat API | Next.js, GitHub API, Groq |
 | [my-portfolio](https://github.com/nitinsingh2006/my-portfolio) | Production personal site with live GitHub integration, OG image generation, and structured data | Next.js 15, Tailwind, Framer Motion |
-| [company-wise-dsa-questions](https://github.com/nitinsingh2006/company-wise-dsa-questions) | Company-wise placement prep DSA question bank with difficulty ranking, covering 11 companies | Reference PDFs, DSA |
 
 </details>
 
@@ -204,10 +165,6 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh2006&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nitinsingh2006&theme=tokyonight&no-frame=true&row=1&column=7" />
-
 </div>
 
 <br/>
@@ -227,8 +184,6 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitin--portfolio--orpin.vercel.app-0F172A?style=flat-square)](https://nitin-portfolio-orpin.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitinsingh2006-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsingh2006)
 [![npm](https://img.shields.io/badge/npm-nitinsingh2006-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~nitinsingh2006)
-
-<sub><a href="#nitin-singh">Back to top ⬆</a></sub>
 
 </div>
 
