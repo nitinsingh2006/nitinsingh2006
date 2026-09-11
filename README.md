@@ -172,7 +172,7 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 ## Contribution Snake
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
