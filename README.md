@@ -250,10 +250,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitinsingh2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg">
@@ -270,15 +266,15 @@
 
 <br/>
 
-<a href="https://github.com/nitinsingh2006">
+<a href="https://github.com/nitinsingh2006" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-nitinsingh2006-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
-
-<a href="https://linkedin.com/in/nitin-singh-657089339">
-<img src="https://img.shields.io/badge/LinkedIn-nitin--singh--657089339-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/nitinsingh2006/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-nitinsingh2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
-
-<a href="https://www.npmjs.com/~nitinsingh2006">
+&nbsp;
+<a href="https://www.npmjs.com/~nitinsingh2006" target="_blank">
 <img src="https://img.shields.io/badge/npm-~nitinsingh2006-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="npm"/>
 </a>
 
