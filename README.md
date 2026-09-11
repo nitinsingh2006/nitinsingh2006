@@ -252,6 +252,14 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=nitinsingh2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub trophies"/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
 </div>
 
 <!-- CONTACT -->
