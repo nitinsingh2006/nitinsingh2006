@@ -1,166 +1,115 @@
 <div align="center">
-
-<img src="./assets/solo-ship.svg" alt="Nitin OS - Solo Shipper" width="100%">
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=22D3EE&background=00000000&center=true&vCenter=true&width=780&height=38&lines=%3E+Building+AI-powered+products+alone%2C+end+to+end.;%3E+Zero-budget-first.+Local-first+AI.+Built+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3;%3E+B.Tech+CSE+%2728+%C2%B7+IIST+Indore%2C+India" alt="Typing subtitle"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Nitin%20Singh&fontSize=42&fontColor=58A6FF&fontAlignY=42&desc=Full-Stack%20%2B%20AI%20Developer%20%C2%B7%20IIST%20Indore&descAlignY=62&descSize=16&descColor=8B949E" width="100%"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=520&lines=Building+solo%2C+end+to+end.;Zero-budget-first.+Local-first+AI." alt="tagline"/>
+</div>
 
 <br/>
 
-<p>
-  <a href="https://github.com/nitinsingh2006"><b>GitHub</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nitin-singh-657089339" target="_blank"><b>LinkedIn</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~nitinsingh2006" target="_blank"><b>npm</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:nsingh987610@gmail.com"><b>Email</b></a>
-</p>
+### About
 
-</div>
+B.Tech CSE student (2027 batch) at IIST Indore, building AI-powered full-stack products independently — architecture, implementation, and deployment handled solo, end to end. Work spans local-first AI tooling, developer infrastructure, and SaaS products built for the Indian market.
 
----
+<br/>
 
-## `boot sequence`
+### Principles
 
-```text
-$ whoami
+**Zero-budget-first**  
+Architecture that doesn't depend on paid infrastructure to get started
 
-nitin@iist-indore
------------------
-role        solo product developer
-mode        vibe coder & systems builder
-specialty   local-first AI & full-stack products
-strategy    zero-budget-first architecture
-default     local models on-device (Ollama / Rust)
-shipping    end-to-end
+**Local-first AI**  
+Local models where privacy, cost, or latency matter more than scale
 
-$ ./start-building
+**Solo, end to end**  
+Own the full path — design, code, testing, deployment
 
-[01] find a real friction point
-[02] keep infrastructure lean and cost at zero
-[03] move intelligence directly to user hardware
-[04] ship the complete loop
-```
+**Built for India**  
+Indian payments, documents, language, and workflows by default
 
-I am **Nitin Singh**, a B.Tech CSE student ('28) at IIST Indore building software independently.
+<br/>
 
-My stack is chosen for speed, autonomy, and zero recurring overhead:
+### Projects
 
-```text
-idea -> interface -> intelligence -> data -> payments -> deployment
-```
-
-No waiting for large teams, no enterprise bloat, and no monthly cloud infrastructure bills.
-
----
-
-## `operating principles`
-
-| Principle | Practical Execution |
-|:---|:---|
-| **`zero-budget-first`** | Start with architectures that never depend on paid infrastructure to launch or scale. |
-| **`local-first AI`** | Prefer on-device models and local execution when privacy, latency, and cost matter. |
-| **`solo end-to-end`** | Own the full path: data modeling, native IPC, UI/UX, testing, and production deployment. |
-| **`ship the loop`** | A feature is incomplete until it forms an automated, repeatable, usable workflow. |
-| **`built for Bharat 🇮🇳`** | Design around Indian business realities: GST compliance, Razorpay rails, and local workflows. |
-
----
-
-## `featured products`
-
-### 01. [Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI) — Open-Source Local AI Workstation
-> A native desktop AI workstation designed around local model execution, sandboxed agent workflows, and private data.
-- **Architecture**: `Rust` · `Tauri` · `SQLite` · `Ollama` · `React` · `npm package`
-- **Signal**: Native IPC bridge, zero cloud latency, embedded local database, and package distribution via npm.
-
-### 02. [CodeQuest AI](https://codequest-ai-one.vercel.app/) — Gamified Coding Platform
-> A gamified coding platform where practice, execution, progress, and AI mentorship happen inside one feedback loop.
-- **Architecture**: `Next.js` · `Pyodide (WASM)` · `Ollama` · `Docker`
-- **Signal**: Client-side Python code execution via WebAssembly, quest leaderboards, and zero server execution cost.
-
-### 03. [Invo](https://github.com/nitinsingh2006/invo) — Invoicing for Indian Freelancers
-> AI-assisted financial operations focused on the operational reality of independent Indian professionals.
-- **Architecture**: `Next.js` · `Prisma` · `Razorpay` · `Gemini API` · `Clerk`
-- **Signal**: GST-compliant invoice generation, Razorpay automated payment links, and Gemini-powered payment reminders.
-
-### 04. [ResumeForge](https://github.com/nitinsingh2006/resume-forge) — Structured Career Documents
-> ATS-friendly resume builder that treats career history as structured schema first, visual document second.
-- **Architecture**: `Next.js` · `Prisma` · `Docker` · `Playwright`
-- **Signal**: Multi-format export (PDF, DOCX, JSON), containerized workflows, and automated end-to-end tests.
-
-### 05. [PortfolioSathi](https://github.com/nitinsingh2006/portfoliosathi) — Developer Identity Engine
-> Converts developer signals from GitHub accounts and LinkedIn PDFs into an interactive 3D web experience.
-- **Architecture**: `Next.js` · `Three.js` · `GitHub API` · `pdf-parse`
-- **Signal**: Automatic PDF signal extraction, animated WebGL canvas, and zero manual form filling.
-
-### 06. [Lead Gen Automation](https://github.com/nitinsingh2006/lead-gen-automation) — Autonomous Prospecting Pipeline
-> A Python automation pipeline connecting business discovery, AI demo generation, deployment, and outreach.
-- **Architecture**: `Python` · `Apify` · `Gemini API` · `GitHub Pages`
-- **Signal**: Automated lead discovery, synthetic site generation with Gemini, and one-click GitHub Pages deployment.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI) | Open-source local-first AI workstation — Rust/Tauri core, SQLite, Ollama models, sandboxed agent runtime, React desktop UI. Also shipped as an npm package. | Rust · Tauri · React · SQLite · Ollama |
+| [CodeQuest AI](https://codequest-ai-one.vercel.app/) | Gamified coding platform — quests, leaderboard, in-browser execution via Pyodide, and a local Ollama mentor. Zero server cost. | Next.js · Pyodide · Ollama · Docker |
+| [Invo](https://github.com/nitinsingh2006/invo) | AI-assisted, GST-compliant invoicing for Indian freelancers — Razorpay payment links, Gemini-powered reminders. | Next.js · Prisma · Clerk · Razorpay · Gemini |
+| [ResumeForge](https://github.com/nitinsingh2006/resume-forge) | ATS-friendly resume builder treating a resume as structured data first. PDF/DOCX/JSON export, Dockerized, tested. | Next.js · Prisma · Docker · Playwright |
+| [PortfolioSathi](https://github.com/nitinsingh2006/portfoliosathi) | Converts a GitHub username and LinkedIn PDF into an animated, data-driven portfolio site. | Next.js · GitHub API · pdf-parse · Three.js |
+| [Lead Gen Automation](https://github.com/nitinsingh2006/lead-gen-automation) | Python pipeline: finds local businesses, generates demo sites with Gemini, deploys to GitHub Pages, automates outreach. | Python · Apify · Gemini · GitHub Pages |
 
 <details>
-<summary><strong>🔍 View secondary tools and experimental utilities</strong></summary>
+<summary>More projects</summary>
 <br/>
 
-- **[GitHub Roaster](https://github.com/nitinsingh2006/github-roaster)**: Transforms GitHub profile metrics into multilingual AI roasts using ultra-low latency Groq inference (`Next.js` · `GitHub API` · `Groq`).
-- **[nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code)**: High-throughput FastAPI proxy router for Claude Code and Codex tooling with intelligent failover (`Python` · `FastAPI`).
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [GitHub Roaster](https://github.com/nitinsingh2006/github-roaster) | Analyzes GitHub profile data, generates multilingual AI roasts | Next.js · GitHub API · Groq |
+| [nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code) | FastAPI proxy tooling around Claude Code and Codex with provider routing | Python · FastAPI |
+
 </details>
 
----
+<br/>
 
-## `capability map`
+### Stack
 
-```text
-LANGUAGES       TypeScript  JavaScript  Python  Rust  C++  SQL
-FRONTEND        Next.js  React  TailwindCSS  Three.js  Framer Motion
-BACKEND & DATA  Prisma ORM  PostgreSQL  SQLite  Clerk Auth  Razorpay
-AI & RUNTIMES   Ollama (Local LLMs)  Gemini API  Groq LPU  Pyodide (WASM)  Agents
-DEVOPS & QA     Docker  GitHub Actions CI/CD  Vercel  Playwright E2E  Linux
-```
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br/>
+      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB"/>
+      <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=CE422B"/>
+      <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+      <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <br/><br/>
+      <strong>Frontend</strong><br/>
+      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+      <img src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&logo=threedotjs&logoColor=FFFFFF"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend & Data</strong><br/>
+      <img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=07405E"/>
+      <img src="https://img.shields.io/badge/Razorpay-161B22?style=flat-square&logo=razorpay&logoColor=FFFFFF"/>
+      <br/><br/>
+      <strong>AI, Agents & DevOps</strong><br/>
+      <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+    </td>
+  </tr>
+</table>
 
-```text
-Rust / Tauri    -> when the product needs native desktop performance with zero cloud bills
-Ollama          -> when intelligence should stay private, offline, and close to the user
-SQLite          -> when a product should start immediately without external database servers
-PostgreSQL      -> when relational schema complexity needs room to grow
-Pyodide (WASM)  -> when untrusted code execution belongs in the client browser
-Playwright      -> when confidence and quality must be verified before shipping
-```
+<br/>
 
----
-
-## `live telemetry`
+### GitHub
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=nitinsingh2006&theme=tokyonight&hide_border=true&background=080B10&ring=22D3EE&fire=FACC15&currStreakLabel=22D3EE" alt="Nitin's GitHub Streak" height="175"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
+  <img src="https://img.shields.io/badge/Repositories-29-161B22?style=flat-square&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Stars-34-161B22?style=flat-square&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Followers-85-161B22?style=flat-square&logoColor=58A6FF"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution activity"/>
 </div>
 
----
+<sub>Repository/star/follower counts above are set manually — update them here when they change materially. The contribution graph is generated by a GitHub Action in this repo and stays current automatically.</sub>
 
-## `contact`
+<br/>
 
-If you are building something practical with local AI, developer tools, or automation:
+### Contact
 
-- **GitHub**: [@nitinsingh2006](https://github.com/nitinsingh2006)
-- **LinkedIn**: [Nitin Singh](https://www.linkedin.com/in/nitin-singh-657089339)
-- **npm**: [~nitinsingh2006](https://www.npmjs.com/~nitinsingh2006)
-- **Email**: [nsingh987610@gmail.com](mailto:nsingh987610@gmail.com)
+- **GitHub** — [github.com/nitinsingh2006](https://github.com/nitinsingh2006)
+- **LinkedIn** — [linkedin.com/in/nitin-singh-657089339](https://www.linkedin.com/in/nitin-singh-657089339)
+- **npm** — [npmjs.com/~nitinsingh2006](https://www.npmjs.com/~nitinsingh2006)
 
 <br/>
 
 <div align="center">
-
-```text
-built independently from Indore, India 🇮🇳
-```
-
+  <sub>Built independently, from Indore, India.</sub>
 </div>
