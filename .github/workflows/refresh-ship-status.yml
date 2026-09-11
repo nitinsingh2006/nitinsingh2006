@@ -1,0 +1,97 @@
+name: Refresh profile telemetry
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Fetch public GitHub profile data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          curl --fail --silent --show-error --location \
+            --retry 3 \
+            --header "Authorization: Bearer ${GITHUB_TOKEN}" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/users/nitinsingh2006" \
+            > /tmp/profile.json
+
+      - name: Generate SVG telemetry panel
+        run: |
+          set -euo pipefail
+
+          repos="$(jq -r '.public_repos // 0' /tmp/profile.json)"
+          followers="$(jq -r '.followers // 0' /tmp/profile.json)"
+          following="$(jq -r '.following // 0' /tmp/profile.json)"
+          synced_at="$(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          mkdir -p assets
+
+          cat > assets/ship-status.svg <<EOF
+          <svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="1000" height="220" rx="18" fill="#0B0F14"/>
+            <rect x="1" y="1" width="998" height="218" rx="17" fill="none" stroke="#243244"/>
+
+            <path d="M0 175C170 125 260 205 420 156C580 107 670 170 820 105C890 75 945 78 1000 84"
+                  stroke="#164E63" stroke-width="2" fill="none"/>
+
+            <text x="38" y="48" fill="#67E8F9" font-family="monospace" font-size="18">
+              NITIN_OS / PROFILE TELEMETRY
+            </text>
+
+            <text x="38" y="82" fill="#64748B" font-family="monospace" font-size="13">
+              public GitHub profile data / auto-refreshed
+            </text>
+
+            <text x="38" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+              PUBLIC REPOS      ${repos}
+            </text>
+
+            <text x="290" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+              FOLLOWERS        ${followers}
+            </text>
+
+            <text x="535" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+              FOLLOWING        ${following}
+            </text>
+
+            <text x="38" y="177" fill="#84CC16" font-family="monospace" font-size="13">
+              STATUS: synced successfully
+            </text>
+
+            <text x="680" y="177" fill="#64748B" font-family="monospace" font-size="13">
+              ${synced_at}
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit updated telemetry
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/ship-status.svg
+
+          if git diff --cached --quiet; then
+            echo "No telemetry changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile telemetry"
+          git push

@@ -1,0 +1,35 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="220" rx="18" fill="#0B0F14"/>
+  <rect x="1" y="1" width="998" height="218" rx="17" fill="none" stroke="#243244"/>
+
+  <path d="M0 175C170 125 260 205 420 156C580 107 670 170 820 105C890 75 945 78 1000 84"
+        stroke="#164E63" stroke-width="2" fill="none"/>
+
+  <text x="38" y="48" fill="#67E8F9" font-family="monospace" font-size="18">
+    NITIN_OS / PROFILE TELEMETRY
+  </text>
+
+  <text x="38" y="82" fill="#64748B" font-family="monospace" font-size="13">
+    waiting for first scheduled sync...
+  </text>
+
+  <text x="38" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+    PUBLIC REPOS      --
+  </text>
+
+  <text x="290" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+    FOLLOWERS        --
+  </text>
+
+  <text x="535" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
+    FOLLOWING        --
+  </text>
+
+  <text x="38" y="177" fill="#84CC16" font-family="monospace" font-size="13">
+    STATUS: ready for workflow_dispatch
+  </text>
+
+  <text x="745" y="177" fill="#64748B" font-family="monospace" font-size="13">
+    UTC --
+  </text>
+</svg>

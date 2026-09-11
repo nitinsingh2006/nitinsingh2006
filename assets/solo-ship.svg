@@ -1,0 +1,99 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B10"/>
+      <stop offset="0.52" stop-color="#10151D"/>
+      <stop offset="1" stop-color="#07181A"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A5F3FC" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+
+  <path d="M0 360C180 280 300 410 480 325C650 245 770 300 930 210C1040 148 1110 138 1200 155"
+        stroke="#164E63" stroke-width="2" stroke-opacity="0.55"/>
+
+  <path d="M0 390C180 310 300 440 480 355C650 275 770 330 930 240C1040 178 1110 168 1200 185"
+        stroke="#22D3EE" stroke-width="1" stroke-opacity="0.18"/>
+
+  <rect x="58" y="48" width="500" height="332" rx="16"
+        fill="#05070A" fill-opacity="0.82"
+        stroke="#334155" stroke-opacity="0.8"/>
+
+  <circle cx="88" cy="78" r="6" fill="#FB7185"/>
+  <circle cx="110" cy="78" r="6" fill="#FACC15"/>
+  <circle cx="132" cy="78" r="6" fill="#A3E635"/>
+
+  <text x="165" y="83" fill="#64748B" font-family="monospace" font-size="15">
+    nitin@iist-indore:~/solo-ship
+  </text>
+
+  <text x="88" y="135" fill="#67E8F9" font-family="monospace" font-size="17">
+    $ boot nitin-os
+  </text>
+
+  <text x="88" y="170" fill="#CBD5E1" font-family="monospace" font-size="16">
+    loading developer profile...
+  </text>
+
+  <text x="88" y="204" fill="#84CC16" font-family="monospace" font-size="16">
+    [ok] local-first intelligence
+  </text>
+
+  <text x="88" y="236" fill="#84CC16" font-family="monospace" font-size="16">
+    [ok] full-stack shipping mode
+  </text>
+
+  <text x="88" y="268" fill="#84CC16" font-family="monospace" font-size="16">
+    [ok] zero-budget constraints
+  </text>
+
+  <text x="88" y="320" fill="#F8FAFC" font-family="monospace" font-size="28" font-weight="700">
+    NITIN OS
+  </text>
+
+  <text x="88" y="350" fill="#67E8F9" font-family="monospace" font-size="16">
+    SOLO SHIPPER // BUILDING IN PUBLIC
+  </text>
+
+  <circle cx="890" cy="216" r="128" stroke="#164E63" stroke-width="1"/>
+  <circle cx="890" cy="216" r="92" stroke="#155E75" stroke-width="1"/>
+  <circle cx="890" cy="216" r="57" stroke="#0E7490" stroke-width="1"/>
+
+  <ellipse cx="890" cy="216" rx="128" ry="44"
+           transform="rotate(-25 890 216)"
+           stroke="#22D3EE" stroke-opacity="0.55"/>
+
+  <ellipse cx="890" cy="216" rx="128" ry="44"
+           transform="rotate(35 890 216)"
+           stroke="#84CC16" stroke-opacity="0.36"/>
+
+  <circle cx="890" cy="216" r="30" fill="#22D3EE" fill-opacity="0.06"/>
+  <circle cx="890" cy="216" r="23" fill="#22D3EE" fill-opacity="0.10"/>
+  <circle cx="890" cy="216" r="17" fill="#67E8F9" fill-opacity="0.20" stroke="#67E8F9" stroke-width="2"/>
+  <circle cx="890" cy="216" r="5" fill="#E0F2FE"/>
+
+  <circle cx="1015" cy="190" r="12" fill="#84CC16" fill-opacity="0.15"/>
+  <circle cx="1015" cy="190" r="7" fill="#84CC16"/>
+
+  <circle cx="800" cy="143" r="11" fill="#67E8F9" fill-opacity="0.15"/>
+  <circle cx="800" cy="143" r="6" fill="#67E8F9"/>
+
+  <circle cx="785" cy="302" r="9" fill="#D9F99D" fill-opacity="0.15"/>
+  <circle cx="785" cy="302" r="5" fill="#D9F99D"/>
+
+  <circle cx="957" cy="312" r="9" fill="#67E8F9" fill-opacity="0.15"/>
+  <circle cx="957" cy="312" r="5" fill="#67E8F9"/>
+
+  <text x="704" y="385" fill="#64748B" font-family="monospace" font-size="14">
+    IDEA / INTELLIGENCE / PRODUCT / DEPLOY
+  </text>
+
+  <text x="1040" y="72" fill="#64748B" font-family="monospace" font-size="13">
+    v2027
+  </text>
+</svg>
