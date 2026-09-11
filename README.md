@@ -154,16 +154,9 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsingh2006&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh2006&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+[![Repositories](https://img.shields.io/badge/Repositories-27-161B22?style=flat-square)](https://github.com/nitinsingh2006?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-5-161B22?style=flat-square)](https://github.com/nitinsingh2006?tab=stars)
+[![Followers](https://img.shields.io/badge/Followers-87-161B22?style=flat-square)](https://github.com/nitinsingh2006)
 
 </div>
 
@@ -172,7 +165,7 @@ End-to-end Python pipeline that finds local businesses, generates demo websites 
 ## Contribution Snake
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
