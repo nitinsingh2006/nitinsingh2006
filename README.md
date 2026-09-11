@@ -1,211 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,80:1F2A38,100:091E2A&height=220&section=header&text=NITIN%20SINGH&fontSize=46&fontColor=58A6FF&fontAlignY=38&desc=Full-Stack%20%2B%20AI%20Engineer%20%7C%20Building%20for%20Bharat%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=59&descSize=16&descColor=A5D6FF&animation=twinkling" width="100%" alt="Header banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=850&height=48&lines=%F0%9F%9A%80+Solo+Shipper+%E2%80%94+From+Architecture+to+Deployment;%F0%9F%A4%96+Local-First+AI+%26+Autonomous+Agent+Workflows;%F0%9F%92%A1+Zero-Budget-First+Lean+Infrastructure;%F0%9F%8E%93+B.Tech+CSE+%2728+%40+IIST+Indore%2C+India" alt="Animated Tagline"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Nitin%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Engineer%20%C2%B7%20Indore,%20India&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/nitinsingh2006">
-  <img src="https://img.shields.io/badge/GitHub-nitinsingh2006-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nitin-singh-657089339" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.npmjs.com/~nitinsingh2006" target="_blank">
-  <img src="https://img.shields.io/badge/npm-~nitinsingh2006-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="npm"/>
-</a>
-&nbsp;
-<a href="mailto:nsingh987610@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nsingh987610-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+local-first+AI+tools;Full-stack+SaaS+%2B+developer+infrastructure;Rust+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+AI+agents)](https://git.io/typing-svg)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Location-Indore%2C%20MP%20%F0%9F%87%AE%F0%9F%87%B3-161B22?style=flat-square&logo=googlemaps&logoColor=F78166"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Education-IIST%20Indore%20CSE%20%2728-161B22?style=flat-square&logo=graduationschool&logoColor=238636"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Specialty-Local--First%20AI%20%2B%20Full--Stack-161B22?style=flat-square&logo=openai&logoColor=58A6FF"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Shipping%20End--to--End-161B22?style=flat-square&logo=rocket&logoColor=BC8CFF"/>
+<p>
+<a href="https://nitin-portfolio-orpin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/nitinsingh2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nitinsingh2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.npmjs.com/~nitinsingh2006"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+</p>
 
 </div>
 
 <br/>
 
----
+## About
 
-### 💻 System Boot Sequence
-
-```zsh
-nitin@iist-indore:~$ neofetch --profile
---------------------------------------------------------------------------
-OS          : Nitin OS (Solo Shipper Edition)
-Host        : Indore Institute of Science & Technology (CSE '28)
-Role        : AI-Powered Full-Stack Engineer & Systems Builder
-Core Stack  : Rust · TypeScript · Python · Next.js · SQLite · Docker
-Intelligence: Local LLMs (Ollama) · Gemini · Groq · Agent Sandboxes
-Philosophy  : Zero-budget architecture · Local-first AI · Ship the complete loop
-Status      : Actively building & shipping practical AI tools for Bharat 🇮🇳
---------------------------------------------------------------------------
-```
-
-I am **Nitin Singh**, an independent developer and CSE student at IIST Indore. I design, code, test, and deploy production-grade software end-to-end without waiting for large teams, heavy infrastructure, or expensive SaaS bills.
+B.Tech CSE student at IIST Indore, building across AI infrastructure, full-stack web apps, automation, and developer tooling. My work spans a Rust + Tauri local-first AI workstation, AI-assisted SaaS products, a gamified coding-learning platform, portfolio/resume builders, and Python automation pipelines — most shipped solo, end to end, from architecture to deployment.
 
 <br/>
 
----
+## Currently Building
 
-### 🔄 The Solo Ship Loop
-
-```text
-       ┌───────────────────────────────┐
-       │       1. REAL SIGNAL          │
-       │ Bharat workflows, dev tooling,│
-       │ data friction, user needs     │
-       └──────────────┬────────────────┘
-                      │
-                      ▼
-       ┌───────────────────────────────┐
-       │       2. INTELLIGENCE         │
-       │ Local Ollama models, agents,  │
-       │ Gemini APIs, browser sandboxes│
-       └──────────────┬────────────────┘
-                      │
-                      ▼
-       ┌───────────────────────────────┐
-       │       3. LEAN BUILD           │
-       │ Next.js, Rust/Tauri, SQLite,  │
-       │ Docker — zero server expense  │
-       └──────────────┬────────────────┘
-                      │
-                      ▼
-       ┌───────────────────────────────┐
-       │       4. COMPLETE SHIP        │
-       │ Full loop: UI, Auth, Payments,│
-       │ automated CI/CD, deployment   │
-       └───────────────────────────────┘
+```
+🦀  Local-first AI apps  — Rust, Tauri, React, SQLite, Ollama, provider adapters
+🌐  Full-stack SaaS      — Next.js, TypeScript, Prisma, PostgreSQL, Clerk, Razorpay
+🤖  AI product features  — Ollama, Gemini, Groq, OpenAI/Anthropic-style provider patterns
+⚙️  Automation pipelines — Python, Apify, GitHub Actions, scheduled workflows
 ```
 
 <br/>
 
----
+## Stack
 
-### 🪐 Project Constellation
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Project | Description | Stack & Architecture | Status |
-| :--- | :--- | :--- | :---: |
-| **[Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)** | **Open-source local-first AI workstation** — desktop app with Rust/Tauri core, SQLite local storage, Ollama model runtime, sandboxed agents, and React desktop UI. Also distributed via npm. | `Rust` · `Tauri` · `SQLite` · `Ollama` · `React` | ![Active](https://img.shields.io/badge/Shipped-238636?style=flat-square) |
-| **[CodeQuest AI](https://codequest-ai-one.vercel.app/)** | **Gamified coding platform** — quests, interactive leaderboard, in-browser code execution sandbox via Pyodide, and local Ollama-powered mentor with zero server overhead. | `Next.js` · `Pyodide` · `Ollama` · `Docker` | ![Live](https://img.shields.io/badge/Live-1F6FEB?style=flat-square) |
-| **[Invo](https://github.com/nitinsingh2006/invo)** | **AI-assisted GST invoicing platform** built for Indian freelancers with automated Razorpay payment link generation and Gemini-powered payment reminder engine. | `Next.js` · `Prisma` · `Razorpay` · `Gemini` · `Clerk` | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) |
-| **[ResumeForge](https://github.com/nitinsingh2006/resume-forge)** | **ATS-friendly structured resume builder** treating documents as reproducible structured data first. Features PDF/DOCX/JSON export, containerized workflows, and automated testing. | `Next.js` · `Prisma` · `Docker` · `Playwright` | ![Shipped](https://img.shields.io/badge/Shipped-6E40C9?style=flat-square) |
-| **[PortfolioSathi](https://github.com/nitinsingh2006/portfoliosathi)** | **Automated portfolio generator** extracting signal from GitHub profile APIs and LinkedIn PDF exports into an interactive, animated Three.js developer showcase. | `Next.js` · `Three.js` · `GitHub API` · `pdf-parse` | ![Shipped](https://img.shields.io/badge/Shipped-1F6FEB?style=flat-square) |
-| **[Lead Gen Automation](https://github.com/nitinsingh2006/lead-gen-automation)** | **Autonomous prospect-to-deployment pipeline** — discovers local businesses, synthesizes demo sites using Gemini, auto-publishes to GitHub Pages, and triggers personalized outreach. | `Python` · `Gemini` · `Apify` · `GitHub Pages` | ![Shipped](https://img.shields.io/badge/Shipped-F78166?style=flat-square) |
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+
+**AI & Agents**
+<br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white"/>
+
+**DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)
+Open-source local-first AI workstation for local and cloud models. Rust/Tauri trusted core, OS-keychain secrets, SQLite persistence, provider registry, and a sandboxed agent runtime behind a React desktop UI.
+
+`Rust` `Tauri` `React` `SQLite` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+### [CodeQuest AI](https://codequest-ai-one.vercel.app)
+Gamified coding platform with quests, a leaderboard, in-browser code execution via Pyodide, and a local Ollama mentor — no server-side execution risk, no API cost.
+
+`Next.js` `Prisma` `PostgreSQL` `Ollama` `Pyodide` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Invo](https://github.com/nitinsingh2006/invo)
+AI-assisted invoicing platform for Indian freelancers and small businesses — GST-compliant invoices, Clerk auth, Razorpay payment links, PDF generation, and Gemini-powered reminders.
+
+`Next.js` `Prisma` `Clerk` `Razorpay` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### [PortfolioSathi](https://github.com/nitinsingh2006/portfoliosathi)
+Portfolio generator that turns a GitHub username and a LinkedIn PDF export into an animated, data-driven portfolio site, parsing both sources server-side.
+
+`Next.js` `GitHub REST API` `pdf-parse` `Three.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ResumeForge](https://github.com/nitinsingh2006/resume-forge)
+ATS-friendly resume builder with live preview, multiple templates, PDF/DOCX/JSON export, and a tested, Dockerized, auth-ready architecture.
+
+`Next.js` `Prisma` `Docker` `Vitest` `Playwright`
+
+</td>
+<td width="50%" valign="top">
+
+### [Lead Gen Automation](https://github.com/nitinsingh2006/lead-gen-automation)
+End-to-end Python pipeline that finds local businesses, generates demo websites with Gemini, deploys them to GitHub Pages, and runs outreach over email.
+
+`Python` `Apify` `Gemini` `GitHub Pages` `SMTP`
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>🔍 Explore more repositories & tooling</strong></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[GitHub Roaster](https://github.com/nitinsingh2006/github-roaster)** | Profile data extraction engine transforming GitHub stats into multilingual, humorous AI roasts with high-speed LLM inference. | `Next.js` · `GitHub API` · `Groq` |
-| **[nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code)** | High-throughput FastAPI proxy router for Claude Code and Codex tooling with intelligent provider failover. | `Python` · `FastAPI` · `HTTPX` |
+| Project | What it is | Stack |
+|---|---|---|
+| [GitHub Roaster](https://github.com/nitinsingh2006/github-roaster) | Analyzes GitHub profile data and generates multilingual AI roasts via a Groq-compatible chat API | Next.js, GitHub API, Groq |
+| [my-portfolio](https://github.com/nitinsingh2006/my-portfolio) | Production personal site with live GitHub integration, OG image generation, and structured data | Next.js 15, Tailwind, Framer Motion |
 
 </details>
 
 <br/>
 
----
+## Open Source
 
-### 🛠️ Capabilities & Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚡ Languages</h4>
-      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6"/>
-      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB"/>
-      <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=CE422B"/>
-      <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-      <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <br/><br/>
-      <h4>🎨 Frontend & Interfaces</h4>
-      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-      <img src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&logo=threedotjs&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/Framer_Motion-161B22?style=flat-square&logo=framer&logoColor=0055FF"/>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🗄️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=07405E"/>
-      <img src="https://img.shields.io/badge/Clerk_Auth-161B22?style=flat-square&logo=clerk&logoColor=6C47FF"/>
-      <img src="https://img.shields.io/badge/Razorpay-161B22?style=flat-square&logo=razorpay&logoColor=0C2451"/>
-      <br/><br/>
-      <h4>🤖 AI, Runtimes & DevOps</h4>
-      <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-161B22?style=flat-square&logo=ollama&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/Gemini_API-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
-      <img src="https://img.shields.io/badge/Groq-161B22?style=flat-square&logo=fastapi&logoColor=F55036"/>
-      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF"/>
-      <img src="https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=2EAD33"/>
-    </td>
-  </tr>
-</table>
+- **[Nitin-AI](https://github.com/nitinsingh2006/Nitin-AI)** — Apache-2.0 local-first AI workstation built around provider independence and on-device control
+- **[nitin-ai](https://www.npmjs.com/package/nitin-ai)** — npm package: an autonomous AI developer agent for terminal workflows, BYO API key
+- **[nitin-free-claude-code](https://github.com/nitinsingh2006/nitin-free-claude-code)** — Python/FastAPI proxy tooling around Claude Code and Codex, with provider routing and an admin UI
+- **[dsa-daily-practice](https://github.com/nitinsingh2006/dsa-daily-practice)** · **[100-days-of-code](https://github.com/nitinsingh2006/100-days-of-code)** · **[javascript-practice](https://github.com/nitinsingh2006/javascript-practice)** — daily JavaScript/DSA practice repositories
 
 <br/>
 
----
-
-### 📊 Live Telemetry & GitHub Streaks
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=nitinsingh2006&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="175" alt="GitHub Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsingh2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsingh2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nitinsingh2006&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nitinsingh2006&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsingh2006&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<br/><br/>
+<br/>
 
-<h4>🐍 Contribution Grid Snake Animation</h4>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake.svg">
-  <img alt="Nitin's Contribution Grid Snake" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsingh2006&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <br/>
 
----
+## Contribution Snake
 
-### 📬 Connect & Collaborate
-
-Whether you're exploring local-first AI, building solo products, or hacking on developer tools:
-
-- 🐙 **GitHub**: [@nitinsingh2006](https://github.com/nitinsingh2006)
-- 💼 **LinkedIn**: [Nitin Singh](https://www.linkedin.com/in/nitin-singh-657089339)
-- 📦 **npm**: [~nitinsingh2006](https://www.npmjs.com/~nitinsingh2006)
-- ✉️ **Email**: [nsingh987610@gmail.com](mailto:nsingh987610@gmail.com)
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/nitinsingh2006/nitinsingh2006/output/github-snake-dark.svg" />
+</div>
 
 <br/>
 
+## Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091E2A,50:161B22,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Footer banner"/>
-
-<sub>Crafted with code, intent & pride — from Indore, India 🇮🇳</sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-nitin--portfolio--orpin.vercel.app-0F172A?style=flat-square)](https://nitin-portfolio-orpin.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitinsingh2006-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitinsingh2006)
+[![npm](https://img.shields.io/badge/npm-nitinsingh2006-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~nitinsingh2006)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=80&section=footer" width="100%"/>
