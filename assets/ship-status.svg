@@ -10,26 +10,26 @@
   </text>
 
   <text x="38" y="82" fill="#64748B" font-family="monospace" font-size="13">
-    waiting for first scheduled sync...
+    public GitHub profile data / auto-refreshed
   </text>
 
   <text x="38" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
-    PUBLIC REPOS      --
+    PUBLIC REPOS      25
   </text>
 
   <text x="290" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
-    FOLLOWERS        --
+    FOLLOWERS        85
   </text>
 
   <text x="535" y="137" fill="#CBD5E1" font-family="monospace" font-size="15">
-    FOLLOWING        --
+    FOLLOWING        667
   </text>
 
   <text x="38" y="177" fill="#84CC16" font-family="monospace" font-size="13">
-    STATUS: ready for workflow_dispatch
+    STATUS: synced successfully
   </text>
 
-  <text x="745" y="177" fill="#64748B" font-family="monospace" font-size="13">
-    UTC --
+  <text x="680" y="177" fill="#64748B" font-family="monospace" font-size="13">
+    2026-09-11 07:13 UTC
   </text>
 </svg>
